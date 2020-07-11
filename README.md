@@ -1,5 +1,5 @@
 # tindog
-This is my second project for web development course. The project is based on Angela Yu's Complete Web Development Course's 2nd project CSS Personal Site. I've added more pages and some more components using HTML-CSS-JS inorder to add more details about me.
+This is my third project for web development course. The project is based on Angela Yu's Complete Web Development Course's 3rd project tindog site. The project focuses on learning and implementing basic bootstrap.
 
 ## Live Link:
 Coming Soon....
