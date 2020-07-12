@@ -19,7 +19,7 @@ This is my third project for web development course. The project is based on Ang
 
 ## Mobile View:
 ### Title Section-
-<img alt="title-image" src="imgs/title-mobile.png">
+<img alt="title-image" src="imgs/title-mobile.PNG">
 
 ### Features Section-
 <img alt="feature-image" src="imgs/features-mob.png">
