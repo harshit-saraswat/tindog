@@ -1,9 +1,6 @@
 # tindog
 This is my third project for web development course. The project is based on Angela Yu's Complete Web Development Course's 3rd project tindog site. The project focuses on learning and implementing basic bootstrap.
 
-## Live Link:
-
-
 ## Desktop View:
 ### Title Section-
 <img alt="title-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/title.PNG">
@@ -37,7 +34,7 @@ This is my third project for web development course. The project is based on Ang
 <img alt="footer-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/cta-footer-mob.PNG">
 
 ## Deployment:
-This project is deployed on github pages.
+Not yet deployed.
 
 ## Inspiration:
 The inspiration for the websites have been taken from the follwing:
