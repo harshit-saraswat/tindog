@@ -171,6 +171,7 @@ p{
 /* Media Queries */
 @media (max-width:991px){
     #title{
+    	text-align: center;
     }
 
     .iphone{
