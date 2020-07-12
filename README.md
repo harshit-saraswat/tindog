@@ -6,29 +6,35 @@ This is my third project for web development course. The project is based on Ang
 
 ## Desktop View:
 ### Title Section-
-<img alt="title-image" src="imgs/title.png">
+<img alt="title-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/title.PNG">
 
 ### Features Section-
-<img alt="feature-image" src="imgs/features.png">
+<img alt="feature-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/features.png">
 
 ### Testimonials Section-
-<img alt="testimonials-image" src="imgs/testimonials.png">
+<img alt="testimonials-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/testimonials.PNG">
+
+### Pricing Section-
+<img alt="testimonials-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/pricing.PNG">
 
 ### Footer Section-
-<img alt="footer-image" src="imgs/cta-footer.png">
+<img alt="footer-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/cta-footer.PNG">
 
 ## Mobile View:
 ### Title Section-
-<img alt="title-image" src="imgs/title-mobile.PNG">
+<img alt="title-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/title-mobile.PNG">
 
 ### Features Section-
-<img alt="feature-image" src="imgs/features-mob.png">
+<img alt="feature-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/features-mob.PNG">
 
 ### Testimonials Section-
-<img alt="testimonials-image" src="imgs/testimonials-mob.png">
+<img alt="testimonials-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/testimonials-mob.PNG">
+
+### Pricing Section-
+<img alt="testimonials-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/pricing-mob.PNG">
 
 ### Footer Section-
-<img alt="footer-image" src="imgs/cta-footer-mob.png">
+<img alt="footer-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/cta-footer-mob.PNG">
 
 ## Deployment:
 This project is deployed on github pages.
