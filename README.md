@@ -1,6 +1,9 @@
 # tindog
 This is my third project for web development course. The project is based on Angela Yu's Complete Web Development Course's 3rd project tindog site. The project focuses on learning and implementing basic bootstrap.
 
+## Live Link:
+[tindog](https://harshit-saraswat.github.io/tindog/) - Tinder for dogs
+
 ## Desktop View:
 ### Title Section-
 <img alt="title-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/title.PNG">
@@ -34,7 +37,7 @@ This is my third project for web development course. The project is based on Ang
 <img alt="footer-image" src="https://github.com/harshit-saraswat/tindog/blob/master/imgs/cta-footer-mob.PNG">
 
 ## Deployment:
-Not yet deployed.
+This project is deployed on github pages.
 
 ## Inspiration:
 The inspiration for the websites have been taken from the follwing:
@@ -46,3 +49,4 @@ For the website I've used the following resources:
 * ***Starting Template***: [LondonAppBrewery](https://github.com/londonappbrewery/TinDog-Start)
 * ***Icons***: [FlatIcons](https://www.flaticon.com/)
 * ***Fonts***: [GoogleFonts](https://fonts.google.com/)
+* ***Favicon***: [Pankaj Mehta](https://github.com/pankaj-mehta)'s tindog repo
